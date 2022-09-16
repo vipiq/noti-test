@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396607410450",
+    "project_id": "rehla-c6442",
+    "storage_bucket": "rehla-c6442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607410450:android:578bc281ed3347806023cb",
+        "android_client_info": {
+          "package_name": "com.example.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607410450-dqgth239e630tjoq0b4git807gpoknvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7me7SK6jqsQhsrAGvPvR7Kge7FbTIVQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607410450-dqgth239e630tjoq0b4git807gpoknvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
